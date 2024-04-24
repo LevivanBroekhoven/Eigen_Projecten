@@ -1,0 +1,14 @@
+header {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
